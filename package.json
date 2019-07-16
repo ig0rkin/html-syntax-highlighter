@@ -1,0 +1,18 @@
+{
+  "name": "@ig0rkin/html-syntax-highlighter",
+  "version": "1.0.0",
+  "description": "Lightweight library to highlight html syntax",
+  "license": "MIT",
+  "repository": "ig0rkin/html-syntax-highlighter",
+  "main": "./lib/index.js",
+  "keywords": [
+    "html",
+    "npm",
+    "hightlight",
+    "syntax",
+    "package",
+    "hightlighter",
+    "syntax-highlighter"
+  ],
+  "author": "Ihor Yanovchyk"
+}
