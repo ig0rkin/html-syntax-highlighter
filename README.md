@@ -26,4 +26,3 @@ html = htmlHighlighter(html);
 ```html
 <h1 class="headline">Hello world!</h1>
 ```
-https://img.shields.io/badge/npm-v1.0.0-blue.svg
