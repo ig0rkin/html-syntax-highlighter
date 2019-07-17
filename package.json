@@ -4,7 +4,7 @@
   "description": "Lightweight library to highlight html syntax",
   "license": "MIT",
   "repository": "ig0rkin/html-syntax-highlighter",
-  "main": "./lib/index.js",
+  "main": "index.js",
   "keywords": [
     "html",
     "npm",
